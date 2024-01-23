@@ -1,2 +1,2 @@
 # html-portfolio
-it is a part of y web development course :)
+it is a part of my web development course :)
